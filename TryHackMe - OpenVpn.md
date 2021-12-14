@@ -4,17 +4,17 @@
 
 2) Suivre le tutoriel sur tryHackMe
 
-![tutorial](.\assets\try-hack-me\tutorial.PNG)
+![tutorial](./assets/try-hack-me/tutorial.PNG)
 
 2) En bas du tutoriel, choisir OpenVPN
 
-![open-vpn](.\assets\try-hack-me\open-vpn.PNG)
+![open-vpn](./assets/try-hack-me/open-vpn.PNG)
 
 
 
 3) Générer le fichier openVPN puis le télécharger
 
-![openvpn-generate](.\assets\try-hack-me\openvpn-generate.PNG)
+![openvpn-generate](./assets/try-hack-me/openvpn-generate.PNG)
 
 
 
